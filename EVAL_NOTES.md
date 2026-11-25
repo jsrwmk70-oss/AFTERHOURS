@@ -2,7 +2,7 @@
 
 ## 1. Project Introduction
 
-**AfterHours** is a Netflix-inspired streaming website built entirely with HTML, CSS and Vanilla JavaScript. It is a frontend-only project that simulates a modern movie browsing experience with features like genre filtering, live search, a personal watchlist with localStorage, movie detail popups, a "Surprise Me" random pick, and a dark/light theme toggle.
+**AfterHours** is a Netflix-inspired streaming website built entirely with HTML5, CSS3 and Vanilla JavaScript. It is a frontend-only project that simulates a modern movie browsing experience with features like genre filtering, live search, a personal watchlist with localStorage, movie detail popups, a "Surprise Me" random pick, and a dark/light theme toggle.
 
 **Tagline:** *"Your next binge starts here."*
 
